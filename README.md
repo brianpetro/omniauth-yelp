@@ -1,4 +1,5 @@
-# OmniAuth Yelp
+omniauth-yelp
+=============
 
 This gem contains the Yelp strategy for OmniAuth.
 
